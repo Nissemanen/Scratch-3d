@@ -2,9 +2,9 @@
 <sup>i dont have a good name yet</sup>
 
 ## Project Websites
-project on scratch: https://scratch.mit.edu/projects/1089161270
+project on scratch: https://scratch.mit.edu/projects/1090754398
 
-project on turbowarp(a faster scratch): https://turbowarp.org/1089161270?fps=60&stuck
+project on turbowarp(a faster scratch): https://turbowarp.org/1090754398
 
 ## Versions
 to get a better idea on my idea of versions here is a list of every function/thing the engine should have and what version it should be implemented in
